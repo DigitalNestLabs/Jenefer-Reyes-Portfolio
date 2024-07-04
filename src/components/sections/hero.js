@@ -44,7 +44,6 @@ const StyledHeroSection = styled.section`
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
   }
-
 `;
 
 const Hero = () => {
@@ -66,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Senior Front End Engineer specializing in developing exceptional
-        digital experiences. Currently, I’m focused on building accessible, web and mobile applications.
+        I’m a Senior Front End Engineer specializing in developing exceptional digital experiences.
+        Currently, I’m focused on building accessible, web and mobile applications.
       </p>
     </>
   );

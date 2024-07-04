@@ -129,7 +129,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'React-Native', 'Node.js', 'WordPress', 'Tailwind CSS', 'Bootstrap'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'React-Native',
+    'Node.js',
+    'WordPress',
+    'Tailwind CSS',
+    'Bootstrap',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -139,20 +148,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Jenefer and I enjoy creating digital products. My
-              interest lies with <span>(</span>web development and mobile development <span>)</span> which started back in 2016 when I decided to try creating a mini custom
-              website for my father — creating a custom mini website turned out to be a great learning experience for me in <span>JavaScript, HTML, &amp; CSS!</span> <br/> It's amazing how much you can grasp 
+              Hello! My name is Jenefer and I enjoy creating digital products. My interest lies with{' '}
+              <span>(</span>web development and mobile development <span>)</span> which started back
+              in 2016 when I decided to try creating a mini custom website for my father — creating
+              a custom mini website turned out to be a great learning experience for me in{' '}
+              <span>JavaScript, HTML, &amp; CSS!</span> <br /> It's amazing how much you can grasp
               by diving into the coding and seeing your work come to life.
             </p>
 
             <p>
-              Fast-forward to 2024, and I’ve had the privilege of working across diverse sectors {' '}
+              Fast-forward to 2024, and I’ve had the privilege of working across diverse sectors{' '}
               <a href="https://www.caesars.com/"> an entertainment industry</a>,{' '}
               <a href="https://www.theparkingspot.com/">a start-up</a>,{' '}
               <a href="https://www.macys.com/">a retail giant </a>, and{' '}
-              <a href="https://www.fleetcor.com/">a global financial company</a>. My
-              main focus these days is building web and mobile products and digital
-              experiences.
+              <a href="https://www.fleetcor.com/">a global financial company</a>. My main focus
+              these days is building web and mobile products and digital experiences.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

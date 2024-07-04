@@ -12,4 +12,5 @@ tech:
 company: 'Tellermate'
 showInProjects: true
 ---
-Worked on adding a Contact Us Page to the main Tellermate website and created custom styling library using CSS3. 
+
+Worked on adding a Contact Us Page to the main Tellermate website and created custom styling library using CSS3.
