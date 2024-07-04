@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://digitalnestlabs.github.io/sitemap.xml
-Host: https://digitalnestlabs.github.io
+Sitemap: https://placeholder.com/sitemap.xml
+Host: https://placeholder.com
