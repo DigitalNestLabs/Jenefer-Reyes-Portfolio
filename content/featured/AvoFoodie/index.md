@@ -2,7 +2,7 @@
 date: '1'
 title: 'AvoFoodie Meal Subscription'
 cover: './avofoodie.png'
-github: 'https://github.com/bchiang7/halcyon-site'
+github: 'https://github.com/DigitalNestLabs/avofoodie'
 tech:
   - HMTL5
   - CSS3
